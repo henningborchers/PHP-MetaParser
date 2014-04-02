@@ -1,0 +1,15 @@
+{
+	"name": "henningborchers/PHP-MetaParser",
+	"authors": [
+		{
+			"name": "Henning Borchers",
+			"email": "henning.borchers@gmail.com"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"": "src/"
+		}
+	}
+}
+
